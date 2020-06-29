@@ -7,5 +7,7 @@ package zyj;
 public class User {
     public void show(){
         System.out.println("show");
+        System.out.println("b1");
+        System.out.println("master");
     }
 }
